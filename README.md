@@ -1,0 +1,1 @@
+Year 2019 the final year of my BCA while many people decide on making projects like a website or a web app however i wanted to present something different not a unique idea as a whole but my passion for system design and architecture made me do so  and here i present the task manager not so different from any os resource manager
